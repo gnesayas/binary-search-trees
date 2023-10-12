@@ -1,1 +1,1 @@
-# binary-search-trees
+This mini-project is to help me practice with binary search trees.
